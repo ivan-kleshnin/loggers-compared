@@ -44,8 +44,8 @@
   <tr>
     <th>Formats</th>
     <td>-</td>
-    <td>good defaults</td>
-    <td>poor defaults</td>
+    <td>+</td>
+    <td>+</td>
   </tr>
   <tr>
     <th>Custom Formats</th>
@@ -78,10 +78,16 @@
     <td>...</td>    
   </tr>
   <tr>
-    <th>API impression</th> 
+    <th>API (subjective)</th> 
     <td>easy</td>
     <td>easy</td>
     <td>overcomplicated</td>    
+  </tr>
+  <tr>
+    <th>Defaults (subjective)</th> 
+    <td>good</td>
+    <td>good</td>
+    <td>bad</td>    
   </tr>
 </table>
 
