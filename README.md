@@ -73,7 +73,7 @@
   </tr>
   <tr>
     <th>Specifics</th> 
-    <td>time-diffs<br/>category wildcards</td>
+    <td>time-diffs<br/>logger wildcards</td>
     <td>...</td>
     <td>...</td>    
   </tr>
