@@ -15,7 +15,7 @@
     <th>Levels</th>
     <td>1</td>
     <td>5</td>
-    <td>5</td>
+    <td>6</td>
   </tr>
   <tr>
     <th>Custom Levels</th>
