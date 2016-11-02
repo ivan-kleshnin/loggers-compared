@@ -24,19 +24,19 @@
     <td>+</td>
   </tr>
   <tr>
-    <th>Level filter</th>
+    <th>Level Filter</th>
     <td>-</td>
     <td>+</td>
     <td>+</td>
   </tr>
   <tr>
-    <th>Custom loggers</th>
+    <th>Custom Loggers</th>
     <td>+</td>
     <td>+</td>
     <td>+</td>
   </tr>
   <tr>
-    <th>Logger filter</th>
+    <th>Logger Filter</th>
     <td>+</td>
     <td>+</td>
     <td>+</td>
@@ -66,7 +66,7 @@
     <td>+</td>
   </tr>
   <tr>
-    <th>File rotation</th> 
+    <th>File Rotation</th> 
     <td>-</td>
     <td>+</td>
     <td>+</td>
