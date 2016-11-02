@@ -14,8 +14,14 @@
   <tr>
     <th>Levels</th>
     <td>1</td>
-    <td>5, custom</td>
-    <td>5, custom</td>
+    <td>5</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <th>Custom Levels</th>
+    <td>1</td>
+    <td>+</td>
+    <td>+</td>
   </tr>
   <tr>
     <th>Level filter</th>
@@ -38,14 +44,32 @@
   <tr>
     <th>Formats</th>
     <td>-</td>
-    <td>good, custom</td>
-    <td>decent, custom</td>
+    <td>good</td>
+    <td>decent</td>
+  </tr>
+  <tr>
+    <th>Custom Formats</th>
+    <td>-</td>
+    <td>+</td>
+    <td>+</td>
   </tr>
   <tr>
     <th>Transports</th> 
     <td>console only</td>
-    <td>console, file, SMTP, custom</td>
-    <td>console, file, SMTP, custom</td>
+    <td>console, file, SMTP</td>
+    <td>console, file, SMTP</td>
+  </tr>
+  <tr>
+    <th>Custom Transports</th> 
+    <td>-</td>
+    <td>+</td>
+    <td>+</td>
+  </tr>
+  <tr>
+    <th>File rotation</th> 
+    <td>-</td>
+    <td>+</td>
+    <td>+</td>
   </tr>
   <tr>
     <th>Specifics</th> 
