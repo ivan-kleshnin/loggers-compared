@@ -85,6 +85,6 @@ https://npmcompare.com/compare/debug,log4js,winston
 
 ### Notes
 
-* [Morgan](https://github.com/expressjs/morgan) – purpose? Trivial to implement on top of selected logger
+* [Morgan](https://github.com/expressjs/morgan) – purpose? Trivial to implement on top of selected logger.
 
-* JSON logging – [arguable](https://news.ycombinator.com/item?id=3896833)
+* JSON logging – [arguable](https://news.ycombinator.com/item?id=3896833). 
