@@ -30,7 +30,7 @@
     <td>+</td>
   </tr>
   <tr>
-    <th>Multi-Loggers</th>
+    <th>Custom loggers</th>
     <td>+</td>
     <td>+</td>
     <td>+</td>
