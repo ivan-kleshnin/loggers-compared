@@ -43,4 +43,9 @@
     <td>console only</td>
     <td>console, file, SMTP [extensible]</td>
   </tr>
+  <tr>
+    <th>Features</th> 
+    <td>time-diffs<br/>category wildcards</td>
+    <td>...</td>
+  </tr>
 </table>
