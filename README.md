@@ -19,7 +19,7 @@
   </tr>
   <tr>
     <th>Custom Levels</th>
-    <td>1</td>
+    <td>-</td>
     <td>+</td>
     <td>+</td>
   </tr>
