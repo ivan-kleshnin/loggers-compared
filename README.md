@@ -81,4 +81,4 @@
 
 ### Support
 
-https://npmcompare.com/compare/bunyan,log4js,winston
+https://npmcompare.com/compare/debug,log4js,winston
