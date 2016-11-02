@@ -48,4 +48,9 @@
     <td>time-diffs<br/>category wildcards</td>
     <td>...</td>
   </tr>
+  <tr>
+    <th>Stars</th> 
+    <td>3500+</td>
+    <td>1700+</td>
+  </tr>
 </table>
