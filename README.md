@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <th>Transports</th> 
-    <td>console only</td>
+    <td>console</td>
     <td>console, file, SMTP</td>
     <td>console, file, SMTP</td>
   </tr>
