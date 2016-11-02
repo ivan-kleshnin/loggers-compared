@@ -39,16 +39,19 @@
     <th>Formats</th>
     <td>-</td>
     <td>good, custom</td>
+    <td>decent, custom</td>
   </tr>
   <tr>
     <th>Transports</th> 
     <td>console only</td>
+    <td>console, file, SMTP, custom</td>
     <td>console, file, SMTP, custom</td>
   </tr>
   <tr>
     <th>Specifics</th> 
     <td>time-diffs<br/>category wildcards</td>
     <td>...</td>
+    <td>...</td>    
   </tr>
 </table>
 
