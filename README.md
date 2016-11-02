@@ -87,4 +87,4 @@ https://npmcompare.com/compare/debug,log4js,winston
 
 * [Morgan](https://github.com/expressjs/morgan) – trivial to implement on top of selected logger.
 
-* JSON logging – [arguable](https://news.ycombinator.com/item?id=3896833)
+* JSON logging – [arguable](https://news.ycombinator.com/item?id=3896833).
