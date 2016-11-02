@@ -2,34 +2,36 @@
 
 *The abscence of feature is not automatically BAD just and the presence is not automatically GOOD.*
 
+### Features
+
 <table>
   <tr>
     <th></th>
     <th><a href="https://github.com/visionmedia/debug">Debug<a/></th>
     <th><a href="https://github.com/nomiddlename/log4js-node">Log4Js</a></th>
+    <th><a href="https://github.com/winstonjs/winston">Winston</a></th>
   </tr>
-  <tr>
-    <th>Multi loggers</th>
-    <td>-</td>
-    <td>+</td>
-  </tr>  
   <tr>
     <th>Levels</th>
     <td>1</td>
+    <td>5, custom</td>
     <td>5, custom</td>
   </tr>
   <tr>
     <th>Level filter</th>
     <td>-</td>
     <td>+</td>
+    <td>+</td>
   </tr>
   <tr>
-    <th>Categories</th>
-    <td>custom</td>
-    <td>custom</td>
+    <th>Multi-Loggers</th>
+    <td>+</td>
+    <td>+</td>
+    <td>+</td>
   </tr>
   <tr>
-    <th>Category filter</th>
+    <th>Logger filter</th>
+    <td>+</td>
     <td>+</td>
     <td>+</td>
   </tr>
@@ -44,13 +46,12 @@
     <td>console, file, SMTP, custom</td>
   </tr>
   <tr>
-    <th>Features</th> 
+    <th>Specifics</th> 
     <td>time-diffs<br/>category wildcards</td>
     <td>...</td>
   </tr>
-  <tr>
-    <th>Stars</th> 
-    <td>3500+</td>
-    <td>1700+</td>
-  </tr>
 </table>
+
+### Support
+
+https://npmcompare.com/compare/bunyan,log4js,winston
