@@ -15,8 +15,8 @@
   </tr>  
   <tr>
     <th>Levels</th>
-    <td>1, debug</td>
-    <td>5, extensible</td>
+    <td>1: debug</td>
+    <td>5: extensible</td>
   </tr>
   <tr>
     <th>Level filter</th>
@@ -41,7 +41,7 @@
   <tr>
     <th>Transports</th> 
     <td>console only</td>
-    <td>console, file, SMTP [extensible]</td>
+    <td>console, file, SMTP, extensible</td>
   </tr>
   <tr>
     <th>Features</th> 
