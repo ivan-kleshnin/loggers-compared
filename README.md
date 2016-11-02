@@ -15,8 +15,8 @@
   </tr>  
   <tr>
     <th>Levels</th>
-    <td>1: debug</td>
-    <td>5: extensible</td>
+    <td>1</td>
+    <td>5 +custom</td>
   </tr>
   <tr>
     <th>Level filter</th>
@@ -25,8 +25,8 @@
   </tr>
   <tr>
     <th>Categories</th>
-    <td>custom</td>
-    <td>custom</td>
+    <td>+custom</td>
+    <td>+custom</td>
   </tr>
   <tr>
     <th>Category filter</th>
@@ -36,12 +36,12 @@
   <tr>
     <th>Formats</th>
     <td>-</td>
-    <td>good, customizable</td>
+    <td>good, +custom</td>
   </tr>
   <tr>
     <th>Transports</th> 
     <td>console only</td>
-    <td>console, file, SMTP, extensible</td>
+    <td>console, file, SMTP, +custom</td>
   </tr>
   <tr>
     <th>Features</th> 
