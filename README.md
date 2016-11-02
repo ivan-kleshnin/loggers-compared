@@ -77,6 +77,12 @@
     <td>...</td>
     <td>...</td>    
   </tr>
+  <tr>
+    <th>API impression</th> 
+    <td>easy</td>
+    <td>easy</td>
+    <td>overcomplicated</td>    
+  </tr>
 </table>
 
 ### Support
