@@ -44,8 +44,8 @@
   <tr>
     <th>Formats</th>
     <td>-</td>
-    <td>good</td>
-    <td>decent</td>
+    <td>good defaults</td>
+    <td>pure defaults</td>
   </tr>
   <tr>
     <th>Custom Formats</th>
