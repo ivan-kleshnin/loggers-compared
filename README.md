@@ -77,12 +77,6 @@
     <td>...</td>
     <td>...</td>    
   </tr>
-  <tr>
-    <th>API (subjective)</th> 
-    <td>easy</td>
-    <td>easy</td>
-    <td>overcomplicated</td>    
-  </tr>
 </table>
 
 ### Support
