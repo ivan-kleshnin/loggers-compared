@@ -83,12 +83,6 @@
     <td>easy</td>
     <td>overcomplicated</td>    
   </tr>
-  <tr>
-    <th>Defaults (subjective)</th> 
-    <td>good</td>
-    <td>good</td>
-    <td>bad</td>    
-  </tr>
 </table>
 
 ### Support
@@ -100,3 +94,22 @@ https://npmcompare.com/compare/debug,log4js,winston
 * [Morgan](https://github.com/expressjs/morgan) – purpose? Trivial to implement on top of selected logger.
 
 * JSON logging – [arguable](https://news.ycombinator.com/item?id=3896833). 
+
+Initially I felt like Log4JS has better defaults so decided to stick with it.
+Then I've found a significant drawback: Log4JS wants you to attach **transports** (called **appenders** there) to categories
+rather than loggers themselves. While this can be circumvented by using categories – you cannot define levels per transports per loggers.
+
+I may be wrong, but I belive this (basic) case is not possible to configure with Log4JS:
+
+```
+WINSTON
+  mainLogger
+    transports
+      console
+        DEBUG
+      file  
+        INFO
+      SMTP
+        ERROR
+```      
+      
