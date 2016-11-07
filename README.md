@@ -97,7 +97,7 @@ https://npmcompare.com/compare/debug,log4js,winston
 
 Initially I felt like Log4JS has better defaults so decided to stick with it.
 Then I've found a significant drawback: Log4JS wants you to attach **transports** (called **appenders** there) to categories
-rather than loggers themselves. While this can be circumvented by using categories – you cannot define levels per transports per loggers.
+rather than loggers themselves. So you cannot define levels per transports per loggers.
 
 I may be wrong, but I belive this (basic) case is not possible to configure with Log4JS:
 
