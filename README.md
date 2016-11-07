@@ -79,9 +79,9 @@
   </tr>
   <tr>
     <th>Specifics</th> 
-    <td>time-diffs<br/>logger wildcards</td>
+    <td>profiling<br/>logger wildcards</td>
     <td>...</td>
-    <td>...</td>    
+    <td>profiling</td>    
   </tr>
 </table>
 
