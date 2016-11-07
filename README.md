@@ -81,7 +81,7 @@
     <th>Specifics</th> 
     <td>profiling<br/>logger wildcards</td>
     <td>...</td>
-    <td>profiling</td>    
+    <td>profiling<br/>querying(!)</td>    
   </tr>
 </table>
 
