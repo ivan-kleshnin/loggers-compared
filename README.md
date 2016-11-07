@@ -115,7 +115,7 @@ WINSTON
       
 Winston also understands exceptions so 
 
-```
+```js
 try {
   throw Error("bad")
 } catch (err) {
@@ -125,6 +125,6 @@ try {
 
 logs valid JSON (note `\n`) (plain text is also configurable).
 
-```
+```json
 {"message":"bad","stack":"Error: bad\n    at Object.<anonymous> (/.../test/winston.js:14:8)\n    at Module._compile (module.js:573:32)\n    at Object.Module._extensions..js (module.js:582:10)\n    at Module.load (module.js:490:32)\n    at tryModuleLoad (module.js:449:12)\n    at Function.Module._load (module.js:441:3)\n    at Module.runMain (module.js:607:10)\n    at run (bootstrap_node.js:382:7)\n    at startup (bootstrap_node.js:137:9)\n    at bootstrap_node.js:497:3","level":"error","timestamp":"2016-11-07T09:28:41.799Z"}
 ```
