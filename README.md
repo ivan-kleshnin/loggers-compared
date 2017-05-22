@@ -1,5 +1,7 @@
 # Logging solutions compared
 
+**Note: deprecation notice. At this moment we use [PinoJS](https://github.com/pinojs/) and couldn't be happier. PinoJS is basically a better (cleaned and tuned) version of Bunyan logger used by NodeJS team**.
+
 *The abscence of feature is not automatically BAD just and the presence is not automatically GOOD.*
 
 ### Features
